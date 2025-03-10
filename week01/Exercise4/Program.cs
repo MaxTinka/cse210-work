@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 
 class Program
-{
+{7
     static void Main()
     {
         List<double> numbers = new List<double>();
